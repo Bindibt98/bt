@@ -5,6 +5,9 @@ body{
   position: relative;
   padding-top: 50px;
 }
+.full {
+  width: 100%;
+}
 .head{
 font-family: 'Dancing Script', cursive;
 }
