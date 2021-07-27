@@ -14,12 +14,13 @@ font-family: 'Dancing Script', cursive;
 #head1{
 font-family: 'Pacifico', cursive;
 }
-h2{
-  
+h3{
+  font-family: 'Indie Flower', cursive;
 }
 p{
-  font-family: 'Lobster', cursive;
-  font-family: 'Merriweather', serif;
+/*   font-family: 'Lobster', cursive;
+  font-family: 'Merriweather', serif; */
+  font-family: 'Indie Flower', cursive;
 }
 .img1{
 position: absolute;
