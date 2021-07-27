@@ -15,12 +15,12 @@ font-family: 'Dancing Script', cursive;
 font-family: 'Pacifico', cursive;
 }
 h3{
-  font-family: 'Indie Flower', cursive;
+/*   font-family: 'Indie Flower', cursive; */
 }
 p{
-/*   font-family: 'Lobster', cursive;
-  font-family: 'Merriweather', serif; */
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Lobster', cursive;
+  font-family: 'Merriweather', serif; 
+/*   font-family: 'Indie Flower', cursive; */
 }
 .img1{
 position: absolute;
